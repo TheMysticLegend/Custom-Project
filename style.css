@@ -1,0 +1,25 @@
+body
+{
+    text-align: center;
+    background-image: linear-gradient(to right top, #33ff00, #00ff2a, #8cff00, #8bff7e, #058a00);
+}
+
+.head1:hover
+{
+    color: yellow;
+}
+
+.head2:hover
+{
+    color: yellow;
+}
+
+.head3:hover
+{
+    color: yellow;
+}
+
+.head4:hover
+{
+    color: yellow;
+}
